@@ -7,4 +7,4 @@ RTS Craft, 개인 프로젝트입니다.
 - https://www.kenney.nl/assets/tower-defense-top-down
 
 2. 해당 프로젝트는 공개 프로젝트입니다.
-- https://github.com/MDJ0126/RTS-Craft
+- 티스토리 게시글: https://moondongjun.tistory.com/71
