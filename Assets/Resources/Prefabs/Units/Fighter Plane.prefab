@@ -210,6 +210,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3043765948193187752}
+  - component: {fileID: 1610969946408354187}
   m_Layer: 0
   m_Name: Fighter Plane
   m_TagString: Untagged
@@ -233,3 +234,16 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1610969946408354187
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3043765948193187755}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f9d1c7b7e18b1ae41858966612e6221f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  baseStatusData: {fileID: 11400000, guid: b82b1c21c55d9de4bb720507ad9a0eac, type: 2}
