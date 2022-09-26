@@ -44,7 +44,7 @@ GameObject:
   - component: {fileID: 7041677078822792852}
   - component: {fileID: 2598723093838046825}
   m_Layer: 0
-  m_Name: Tank
+  m_Name: Tank2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -152,7 +152,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 14
-  m_Sprite: {fileID: 21300000, guid: b4d8e9ab2d02b084f9768fa26619071d, type: 3}
+  m_Sprite: {fileID: 21300000, guid: cb6e7adbb59dce2408c02bfe28c1584d, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -236,7 +236,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 15
-  m_Sprite: {fileID: 21300000, guid: fefc30c3fb9f840449379edfc7d6a65e, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 2f4101bfe1fff9d40b22b74875c58a3d, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0

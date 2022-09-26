@@ -17,6 +17,12 @@ public class Unit : MonoBehaviour
 
     private void Update()
     {
-
+        transform.localPosition += Vector3.right * Time.deltaTime * baseStatusData.moveSpeed;
+        if (CheckBeyondMap())
+        {
+            this.gameObject.SetActive(false);
+        }
     }
+
+    private bool CheckBeyondMap() => transform.localPosition.x >= 10;
 }
